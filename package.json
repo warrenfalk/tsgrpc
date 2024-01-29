@@ -1,6 +1,6 @@
 {
   "name": "tsgrpc",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "main": "dist/tsgrpc.js",
   "types": "dist/tsgrpc.d.ts",
   "files": [
