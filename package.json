@@ -27,5 +27,6 @@
   },
   "dependencies": {
     "tsprotobuf-codec": "1.0.0"
-  }
+  },
+  "packageManager": "yarn@4.0.2"
 }

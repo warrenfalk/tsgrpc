@@ -1,3 +1,15 @@
+.pnp.js
+.pnp.cjs
+.pnp.loader.mjs
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/versions
+.vscode/
+.bin/
+.bash_history
+.local/
+
 dist/
 dist-test/
 node_modules/
